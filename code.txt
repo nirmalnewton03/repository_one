@@ -1,4 +1,4 @@
-## version 2
+## version from demo branch
 
 ## def division(x, y):
 	
@@ -7,3 +7,7 @@
 ## def area_triangle(b,h):
 
    return b*h
+
+## def rect(l,b)
+
+   return l*b
