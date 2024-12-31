@@ -1,5 +1,9 @@
-## version 1
+## version 2
 
 ## def division(x, y):
 	
    return x/y
+
+## def area_triangle(b,h):
+
+   return b*h
